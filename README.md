@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack MERN Developer | ML Enthusiast | Building products that scale</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/swaraj-burud" target="_blank">
+  <a href="https://www.linkedin.com/in/swaraj-burud-9099a2295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Swaraj49" target="_blank">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Architecting+Real-Time+Systems+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Integrations+%F0%9F%A4%96;Final+Year+CS+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Architecting+Real-Time+Systems+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Integrations+%F0%9F%A4%96;Final+Year+IT+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 ---
